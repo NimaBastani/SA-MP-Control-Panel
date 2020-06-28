@@ -1,5 +1,5 @@
 # SA-MP-Control-Panel
-Hello guys, i just made a control panel c# and samp api.
+I just made a control panel C# and SA:MP API.
 
 ## Features:
 - Run server
