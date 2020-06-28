@@ -1,7 +1,7 @@
 # SA-MP-Control-Panel
-Hello guys, i just made a control panel c# and samp api.
+I just made a control panel C# and SA:MP API.
 
-# Features:
+## Features:
 - Run server
 - Stop server
 - Restart server
@@ -14,6 +14,6 @@ Hello guys, i just made a control panel c# and samp api.
 - Change max npc can connect to server
 - Enable logging (Sqllite-Chats-Queries-Sqllite-Queries)
 
-# Notes:
+## Notes:
 You should put it in your samp-server folder.
 You shouldn't disable the rcon.
